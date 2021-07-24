@@ -7,7 +7,7 @@ import ContactForm from './component//Contact';
 
 
 function App() {
-
+console.log('')
   const [categories] = useState([
     {
       name: "commercial",
